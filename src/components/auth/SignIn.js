@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { signIn } from '../../store/actions/authActions';
 import { Redirect } from 'react-router-dom';
-
+// TODO d707eaefe2276bb3939c41fd29a78a0dc173c09c sync token gist id : 440779cee2019eed33480b87ee93b450
 class SignIn extends Component {
 	state = {
 		email: '',
