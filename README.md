@@ -1,4 +1,4 @@
-A sample React/Redux + Firebase/Firestore/Cloud + Materialize CSS project. 
+A little simple React/Redux + Firebase/Firestore/Cloud + Materialize CSS project. 
 
 Features:
 - SignUp/Log In auth service
